@@ -10674,6 +10674,8 @@ textarea.form-control-lg {
   .flex-xxl-nowrap {
     flex-wrap: nowrap !important;
   }
+  
+  
 
   .flex-xxl-wrap-reverse {
     flex-wrap: wrap-reverse !important;
